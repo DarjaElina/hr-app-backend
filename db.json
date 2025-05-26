@@ -1,0 +1,119 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Aino Virtanen",
+      "title": "HR Manager",
+      "salary": "7000",
+      "phone": "040-1234567",
+      "email": "aino.virtanen@example.com",
+      "animal": "🦉",
+      "startDate": "2010-04-01",
+      "location": "Helsinki",
+      "department": "Department",
+      "skills": []
+    },
+    {
+      "id": "2",
+      "name": "Mikko Nieminen",
+      "title": "Software Developer",
+      "salary": "7001",
+      "phone": "045-2345678",
+      "email": "mikko.nieminen@example.com",
+      "animal": "🦊",
+      "startDate": "2014-04-13",
+      "location": "Espoo",
+      "department": "IT",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sofia Korhonen",
+      "title": "Marketing Specialist",
+      "salary": "11113",
+      "phone": "050-3456789",
+      "email": "sofia.korhonen@example.com",
+      "animal": "🐈",
+      "startDate": "2023-11-10",
+      "location": "helsinki",
+      "department": "Marketing",
+      "skills": [
+        "SEO",
+        "Content Creation",
+        "Analytic"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Janne Lehtonen",
+      "title": "Product Manager",
+      "salary": "5601",
+      "phone": "044-4567890",
+      "email": "janne.lehtonen@example.com",
+      "animal": "🐺",
+      "startDate": "2019-04-13",
+      "location": "Helsinki",
+      "department": "Product",
+      "skills": [
+        "Agile",
+        "Roadmapping",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Emilia Laine",
+      "title": "UX Designer",
+      "salary": "4700",
+      "phone": "046-5678901",
+      "email": "emilia.laine@example.com",
+      "animal": "🦆",
+      "startDate": "2024-12-01",
+      "location": "Turku",
+      "department": "Design",
+      "skills": [
+        "Figma",
+        "User Research",
+        "Prototyping"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Tuomas Salmi",
+      "title": "Data Analyst",
+      "salary": 4900,
+      "phone": "041-6789012",
+      "email": "tuomas.salmi@example.com",
+      "animal": "🦡",
+      "startDate": "2019-11-18",
+      "location": "Jyväskylä",
+      "department": "Analytics",
+      "skills": [
+        "SQL",
+        "Python",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Laura Mäkinen",
+      "title": "Customer Support Lead",
+      "salary": "3901",
+      "phone": "050-7890123",
+      "email": "laura.makinen@example.com",
+      "animal": "🐬",
+      "startDate": "2016-07-22",
+      "location": "Helsinki",
+      "department": "Customer Service",
+      "skills": [
+        "CRM",
+        "Problem Solving",
+        "Team Management"
+      ]
+    }
+  ]
+}
